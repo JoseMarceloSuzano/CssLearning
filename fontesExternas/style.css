@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Beauty';
+    src: url('fonts/Angelia\ Beauty.ttf') format(truetype);
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-family: 'Beauty', Times, serif;
+    font-size: 3em;
+    font-weight: normal;
+}

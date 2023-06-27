@@ -1,0 +1,12 @@
+body{
+    font-family: 'Work Sans', Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    font-weight: 100;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+h1{
+    font: italic bolder 3em 'Work Sans', sans-serif;
+}
+

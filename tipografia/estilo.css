@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100&display=swap');
+
+body{
+    font: 16px 'Work Sans', Arial, Helvetica, sans-serif black;
+}
+
+h1{
+    font: 3em 'Kaushan Script', sans-serif;
+}
+
+h2{
+    font: 2em 'Kaushan Script', sans-serif;
+}
